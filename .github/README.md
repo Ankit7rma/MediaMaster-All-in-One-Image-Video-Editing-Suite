@@ -1,6 +1,6 @@
-# Image & Video Tools: Unleash the Power of Media
+# MediaMaster: Unleash the Power of Media
 
-📸 Welcome to the Image & Video Tools application. This application provides a **lightweight** and **comprehensive** suite of tools for manipulating images and videos directly in your browser. Below you will find detailed instructions on how to use each tool and information on the available features.
+📸 Welcome to the MediaMaster application. This application provides a **lightweight** and **comprehensive** suite of tools for manipulating images and videos directly in your browser. Below you will find detailed instructions on how to use each tool and information on the available features.
 
 This application is current live [here](https://hoangsonww.github.io/Image-Video-Tools/). Let our tools transform your images & videos! 📸
 
@@ -35,7 +35,7 @@ This application is current live [here](https://hoangsonww.github.io/Image-Video
 
 <p align="center">
    <a href="https://hoangsonww.github.io/Image-Video-Tools/">
-      <img src="../assets/UI.png" alt="Image & Video Tools User Interface" width="100%" style="border-radius: 8px">
+      <img src="../assets/UI.png" alt="MediaMaster User Interface" width="100%" style="border-radius: 8px">
    </a>
 </p>
 
@@ -43,7 +43,7 @@ This application is current live [here](https://hoangsonww.github.io/Image-Video
 
 <p align="center">
    <a href="https://hoangsonww.github.io/Image-Video-Tools/">
-      <img src="../assets/ui-dark.png" alt="Image & Video Tools User Interface (Dark Mode)" width="100%" style="border-radius: 8px">
+      <img src="../assets/ui-dark.png" alt="MediaMaster User Interface (Dark Mode)" width="100%" style="border-radius: 8px">
    </a>
 </p>
 

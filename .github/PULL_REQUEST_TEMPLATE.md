@@ -1,4 +1,4 @@
-# Image & Video Tools - Pull Request
+# MediaMaster - Pull Request
 
 ## Overview
 Briefly describe the purpose of this pull request. What features or bug fixes are included?
