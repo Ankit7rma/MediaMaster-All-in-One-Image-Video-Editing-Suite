@@ -111,7 +111,7 @@ To install and run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangsonww/image-video-tools.git
+   git clone https://github.com/Ankit7rma/MediaMaster-All-in-One-Image-Video-Editing-Suite
    ```
 
 2. Navigate to the project directory:
