@@ -6,28 +6,40 @@ This application is current live [here](https://hoangsonww.github.io/Image-Video
 
 ## Table of Contents
 
-1. [User Interface](#user-interface)
-2. [Introduction](#introduction)
-3. [Features](#features)
+- [MediaMaster: Unleash the Power of Media](#mediamaster-unleash-the-power-of-media)
+  - [Table of Contents](#table-of-contents)
+  - [User Interface](#user-interface)
+  - [Introduction](#introduction)
+  - [Features](#features)
     - [Image Resizer](#image-resizer)
     - [Image Cropper](#image-cropper)
     - [Image Rotator](#image-rotator)
     - [Image Filters](#image-filters)
+    - [Image Background Remover](#image-background-remover)
     - [Image Converter](#image-converter)
     - [Image Watermarker](#image-watermarker)
-    - [Image Background Remover](#image-background-remover)
     - [Thumbnail Generator](#thumbnail-generator)
     - [Sound Remover](#sound-remover)
     - [Dark Mode](#dark-mode)
-4. [Installation](#installation)
-5. [Usage](#usage)
+  - [Installation](#installation)
+  - [Usage](#usage)
     - [General Instructions](#general-instructions)
     - [Tool-Specific Instructions](#tool-specific-instructions)
-6. [Test Status](#test-status)
-7. [Python Implementation](#python-implementation)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+      - [Image Resizer](#image-resizer-1)
+      - [Image Cropper](#image-cropper-1)
+      - [Image Rotator](#image-rotator-1)
+      - [Image Filters](#image-filters-1)
+      - [Image Converter](#image-converter-1)
+      - [Image Watermarker](#image-watermarker-1)
+      - [Image Background Remover](#image-background-remover-1)
+      - [Thumbnail Generator](#thumbnail-generator-1)
+      - [Sound Remover](#sound-remover-1)
+    - [Dark Mode](#dark-mode-1)
+  - [Test Status](#test-status)
+  - [Python Implementation](#python-implementation)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## User Interface
 
@@ -231,8 +243,8 @@ This project is licensed under the MIT License. See the [LICENSE](../LICENSE) fi
 
 ## Contact
 
-If you have any questions, feedback, or concerns, please feel free to [contact me](https://github.com/hoangsonww). I'll be happy to help!
+If you have any questions, feedback, or concerns, please feel free to [contact me](https://github.com/Ankit7rma). I'll be happy to help!
 
 ---
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024. Thank you for visiting us today! 🚀
+Created with ❤️ by [Ankit Sharma](https://github.com/Ankit7rma) in 2024. Thank you for visiting us today! 🚀
